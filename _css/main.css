@@ -3,6 +3,10 @@
     font-family: 'bitter';
     src: url('../_fonts/bitter-regular.eot');
     }
+.juhu {
+    color:aqua;
+    text-align: center;
+}
 
 @font-face {
     font-family: 'bitter';
